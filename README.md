@@ -40,6 +40,9 @@ The dataset contains information about:
 - Feature distribution visualization
 - Advanced insights
 
+## Link Dataset
+https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset
+
 ---
 
 Created by: Rasky Wijaya
